@@ -1,6 +1,12 @@
 👋 Hi, I’m Slava Trofimov, a Full Stack Developer from Toronto.
-I have more than 12 years of experience as a Front End Developer and 2+ years as a Full Stack Developer.
-I specialize in all aspects of web development from basic HTML/CSS/JS coding to creating full-scale web applications with rich REST API(Laravel/NodeJs/Vue3).
+
+I'm working in the web development industry for more than 12 years and am familiar with all aspects
+of a website/app development cycle, from initial analysis and planning, creating wireframes to
+production deployment.
+
+I have strong JavaScript, Vue.js, REST, CSS/SCSS, and HTML5 skills. For the last several years I've
+gained wide experience with Laravel and PHP in general and worked on many Laravel+Vue.js/Nuxt.js
+projects as a Lead developer.
 
 📫 https://www.linkedin.com/in/slava-trofimov-a1b919128/
 
