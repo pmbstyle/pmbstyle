@@ -6,13 +6,13 @@ I worked in the web development industry for more than 10 years and am familiar 
 website/app development cycle, from initial analysis and planning, creating wireframes to production
 deployment.
 
-Have strong JavaScript, Vue.js, REST, CSS/SCSS, and HTML5 skills. For the last several years gained comprehensive
+Have strong JavaScript, Vue.js, REST, CSS/SCSS, and HTML5 skills. For the last several years, I gained comprehensive
 experience with Laravel and PHP in general and worked on many Laravel+Vue.js/Nuxt.js projects as a Lead
-developer. Have vast experience with React.js, MySQL, WordPress, Opencart, and Electron.js.
+developer. I have vast experience with Python, MySQL/Postgres, WordPress, and Electron.js.
 
 Feel confident working with technologies like Git, Docker, Figma, Jira / ClickUp, Slack, etc.
 
-Always seeking skill improvement and better practices.
+I am always seeking skill improvement and better practices.
 
 📫 https://www.linkedin.com/in/slava-trofimov-ca/
 
