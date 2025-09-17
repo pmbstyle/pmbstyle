@@ -5,7 +5,20 @@
 
 📫 https://www.linkedin.com/in/slava-trofimov-ca/
 
-<!---
-pmbstyle/pmbstyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Check out my projects
+
+### 🧠 Alice
+[https://github.com/pmbstyle/Alice](https://github.com/pmbstyle/Alice)
+
+Say "Hi" to Alice 👋, your open-source AI companion designed to live on your desktop.
+Alice brings together voice interaction, intelligent context awareness, powerful tooling, and a friendly personality to assist you with everything from daily tasks to deeper creative work. Alice is more than a chatbot, she’s built to feel present, responsive, emotionally engaging, and deeply useful.
+
+### ⚙️ GLLMC
+[https://github.com/pmbstyle/gllmc](https://github.com/pmbstyle/gllmc)
+
+Go LLM Core - A single Go binary that runs local speech-to-text, text-to-speech, and embedding APIs for your projects on Windows, macOS, and Linux.
+
+### 🚀 Opportunities Fetcher
+[https://github.com/pmbstyle/OpportunitiesFetcher](https://github.com/pmbstyle/OpportunitiesFetcher)
+
+A small and simple AI-powered web app that allows you to search for job opportunities using a web search on particular job sites with a custom search query. The app uses LangChain and Searxng, which you can run locally in Docker and Ollama with your choice model.
