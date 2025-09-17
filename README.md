@@ -22,3 +22,14 @@ Go LLM Core - A single Go binary that runs local speech-to-text, text-to-speech,
 [https://github.com/pmbstyle/OpportunitiesFetcher](https://github.com/pmbstyle/OpportunitiesFetcher)
 
 A small and simple AI-powered web app that allows you to search for job opportunities using a web search on particular job sites with a custom search query. The app uses LangChain and Searxng, which you can run locally in Docker and Ollama with your choice model.
+
+### 📧 Universal Email MCP Server
+[https://github.com/pmbstyle/universal-email-mcp-server](https://github.com/pmbstyle/universal-email-mcp-server)
+
+Connect any email provider to your AI assistant in minutes. Zero friction, maximum security.
+A secure MCP server that connects AI agents to any email provider via IMAP/SMTP protocols. Zero config required for local development, enterprise-ready for cloud deployment.
+
+### 🕒 Temporal Awareness MCP Server
+[https://github.com/pmbstyle/temporal-awareness-mcp](https://github.com/pmbstyle/temporal-awareness-mcp)
+
+A Model Context Protocol (MCP) server that provides AI agents with comprehensive temporal awareness and time calculation capabilities.
