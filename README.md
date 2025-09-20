@@ -21,7 +21,7 @@ Go LLM Core - A single Go binary that runs local speech-to-text, text-to-speech,
 ### 🚀 Opportunities Fetcher
 [https://github.com/pmbstyle/OpportunitiesFetcher](https://github.com/pmbstyle/OpportunitiesFetcher)
 
-A small and simple AI-powered web app that allows you to search for job opportunities using a web search on particular job sites with a custom search query. The app uses LangChain and Searxng, which you can run locally in Docker and Ollama with your choice model.
+A small and simple AI-powered web app that allows you to search for job opportunities using a web search on particular job sites with a custom search query. The app utilizes LangChain and Searxng, which can be run locally in Docker and Ollama with your preferred model.
 
 ### 📧 Universal Email MCP Server
 [https://github.com/pmbstyle/universal-email-mcp-server](https://github.com/pmbstyle/universal-email-mcp-server)
