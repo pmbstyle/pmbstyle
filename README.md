@@ -1,7 +1,7 @@
 
 👋 Hi, I’m Slava Trofimov
 
-📍 **Toronto ↔ Welland** | 🤖 **Full Stack AI Engineer**
+📍 **Ontario, Canada** | 🤖 **Full Stack AI Engineer**
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -34,4 +34,6 @@
 
 - **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
 - **Rapid prototyping** - Full apps in days, not months
+- **Research** - Agentic achitecture and implementation
+- **Having fun** - I love what I'm doing
 
