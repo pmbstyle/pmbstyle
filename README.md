@@ -16,8 +16,6 @@
 
 🏠 [https://trofimov.ca](https://www.linkedin.com/in/slava-trofimov-ca/)
 
-📫 [https://www.linkedin.com/in/slava-trofimov-ca/](https://www.linkedin.com/in/slava-trofimov-ca/)
-
 ## Current projects
 
 - 🦑 **[Octopal](https://github.com/pmbstyle/Octopal)** - Secure multi-agent runtime with isolated workers and powerful task execution under strict boundaries
@@ -37,3 +35,17 @@
 - **Research** - Agentic achitecture and implementation
 - **Having fun** - I love what I'm doing
 
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@pmbstuff-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/pmbstuff)
+[![LinkedIn](https://img.shields.io/badge/-Slava_Trofimov-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slava-trofimov-ca/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pmbstyle)
+
+<details>
+<summary>Random Facts</summary>
+
+- Treat AI agents as constantly evolving tools
+- Run 2-4 Octopal instances concurrently
+- Astrophotography geek and MMORPG fan (when not coding)
+
+</details>
