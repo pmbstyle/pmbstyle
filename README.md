@@ -14,7 +14,7 @@
 
 > Deep in AI-coding mode – building AI-powered tools. After 20+ years shipping web applications, modern development feels like a breath of fresh air.
 
-🏠 [https://trofimov.ca](https://www.linkedin.com/in/slava-trofimov-ca/)
+🏠 [https://trofimov.ca](https://trofimov.ca)
 
 ## Current projects
 
