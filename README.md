@@ -18,7 +18,7 @@
 
 ## Current projects
 
-- 🦑 **[Octopal](https://github.com/pmbstyle/Octopal)** - Secure multi-agent runtime with isolated workers and powerful task execution under strict boundaries
+- 🦑 **[Octopal](https://github.com/pmbstyle/Octopal)** - A local AI agent platform for people who want broad, real-world automation with a design that makes powerful actions safer and easier to predict
 - 🧠 **[Alice](https://github.com/pmbstyle/Alice)** - Your voice-first AI companion designed to live on your desktop
 - 📖 **[Riddi](https://github.com/pmbstyle/Riddi)** - Local Text-to-Speech Browser Reader
 - 💻 **[Gemini Browser Agent](https://github.com/pmbstyle/gemini-browser-agent)** - A research experiment and browser automation project
