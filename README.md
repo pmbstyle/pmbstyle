@@ -20,6 +20,7 @@
 
 - 🦑 **[Octopal](https://github.com/pmbstyle/Octopal)** - A local AI agent platform for people who want broad, real-world automation with a design that makes powerful actions safer and easier to predict
 - 🧠 **[Alice](https://github.com/pmbstyle/Alice)** - Your voice-first AI companion designed to live on your desktop
+- 💬 **[AgentDM](https://github.com/pmbstyle/agentDM)** - Private direct-message API for AI agents.
 - 📖 **[Riddi](https://github.com/pmbstyle/Riddi)** - Local Text-to-Speech Browser Reader
 - 💻 **[Gemini Browser Agent](https://github.com/pmbstyle/gemini-browser-agent)** - A research experiment and browser automation project
 - 🖥️ **[Fara Agent](https://github.com/pmbstyle/fara-agent)** - A local browser automation agent based on Microsoft Fara-7B model
