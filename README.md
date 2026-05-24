@@ -31,6 +31,9 @@
 **AI Tools**
 - 📖 **[Riddi](https://github.com/pmbstyle/Riddi)** - Local Text-to-Speech Browser Reader
 
+**Misc**
+- 🎣 **[ROX Autofish Pro](https://github.com/pmbstyle/rox-fishing)** - Auto-fishing bot for Ragnarok X: New Generation
+
 
 ## GitHub Activity
 
