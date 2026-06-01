@@ -26,14 +26,14 @@
 
 **Tools for agents**
 - 💬 **[AgentDM](https://github.com/pmbstyle/agentDM)** - Private direct-message API for AI agents.
-- 📱 **[GLM Cellphone](https://github.com/pmbstyle/glm-cellphone)** - Local HTTP service for running ZAI AutoGLM phone-agent tasks against a connected Android device. API, MCP servers.
+- 📱 **[GLM Cellphone](https://github.com/pmbstyle/glm-cellphone)** - Local HTTP service for running ZAI AutoGLM phone-agent tasks against a connected Android device. API, MCP servers
 
 **AI Tools**
 - 📖 **[Riddi](https://github.com/pmbstyle/Riddi)** - Local Text-to-Speech Browser Reader
 
 **Misc**
 - 🎣 **[ROX Autofish Pro](https://github.com/pmbstyle/rox-fishing)** - Auto-fishing bot for Ragnarok X: New Generation
-
+- ⚔️ **[L2NodeSolo](https://github.com/pmbstyle/L2NodeSolo)** - Highly customized, ultra-fast Lineage II Chronicle 2 server emulator written in Node.js built for solo play with bots
 
 ## GitHub Activity
 
