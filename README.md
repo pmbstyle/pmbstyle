@@ -33,7 +33,7 @@
 
 **Misc**
 - 🎣 **[ROX Autofish Pro](https://github.com/pmbstyle/rox-fishing)** - Auto-fishing bot for Ragnarok X: New Generation
-- ⚔️ **[L2NodeSolo](https://github.com/pmbstyle/L2NodeSolo)** - Highly customized, ultra-fast Lineage II Chronicle 2 server emulator written in Node.js built for solo play with bots
+- ⚔️ **[L2Solo](https://github.com/pmbstyle/L2Solo)** - Highly customized, ultra-fast Lineage II Chronicle 2 server emulator written in Node.js, built for solo play with bots
 
 ## GitHub Activity
 
