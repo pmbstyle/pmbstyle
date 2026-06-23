@@ -12,7 +12,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-> Deep in AI-coding mode – building AI-powered tools. After 20+ years shipping web applications, modern development feels like a breath of fresh air.
+> Deep in AI-coding mode – building AI-powered tools. After 20+ years of shipping web applications, modern development feels like a breath of fresh air.
 
 🏠 [https://trofimov.ca](https://trofimov.ca)
 
@@ -33,7 +33,7 @@
 
 **Misc**
 - 🎣 **[ROX Autofish Pro](https://github.com/pmbstyle/rox-fishing)** - Auto-fishing bot for Ragnarok X: New Generation
-- ⚔️ **[L2Solo](https://github.com/pmbstyle/L2Solo)** - Highly customized, ultra-fast Lineage II Chronicle 2 server emulator written in Node.js, built for solo play with bots
+- ⚔️ **[L2Solo](https://github.com/pmbstyle/L2Solo)** - Highly customized, ultra-fast Lineage II Chronicle 4 server emulator written in Node.js, built for solo play with AI-powered bots
 
 ## GitHub Activity
 
